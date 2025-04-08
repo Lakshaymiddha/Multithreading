@@ -1,5 +1,7 @@
 package com.examples;
 
+import com.examples.counter.Counter;
+
 public class IncrementCounter extends Thread {
     Counter counter;
 
